@@ -7,6 +7,7 @@ vendors ID is 250f and products ID is 000a
 this program can be use on Mac, linux and Windos.
 
 www.itplants.com
+
 research.itplants.com
 
 tyoe sendcom for inteructive mode.
