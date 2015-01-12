@@ -10,7 +10,7 @@ http://www.itplants.com
 
 http://research.itplants.com
 
-tyoe sendcom for inteructive mode.
+type sendcom for inteructive mode,
 or
 type sendcom no -e command for executing batch mode.
 
